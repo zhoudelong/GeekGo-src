@@ -8,11 +8,13 @@ pkg 放置自定义包的位置
 src 我们的工程的开发文件存放的点，在 src 中创建 项目跟项目文件
 */
 
-func name()  {
+func name() {
 	fmt.Println("sdmhfvdsf ")
 	fmt.Println("---******-----")
 	fmt.Println("*****----*****")
 	fmt.Println("第三次提交代码, 改动")
+
+	fmt.Println("第三次来了")
 }
 
 func main() {
